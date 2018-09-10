@@ -1,5 +1,5 @@
 #!/bin/bash
-#update 26 april comments from Andy
+#Refprop v10
 
 #first use WINE to install refprop.exe in the C:\Program Files\REFPROP\ directory (or virtual box if WINE doesn't work for you)
 #then execute this shell script
