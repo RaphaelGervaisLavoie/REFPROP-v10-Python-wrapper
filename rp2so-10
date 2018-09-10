@@ -11,7 +11,7 @@
 
 #cause the script to abort immediately on error instead of trying to continue
 #an error could for example be caused by not running this script as superuser (sudo), if installing to a path that requires superuser permissions
-set -e
+set -e 
 
 #set the default paths. don't use relative paths
 DefaultREFPROPSourcePath=~/.wine/dosdevices/c\:/Program\ Files\ \(x86\)/REFPROP
