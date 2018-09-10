@@ -4,6 +4,17 @@
 #
 #Author:            Thelen, B.J.
 #                   thelen_ben@yahoo.com
+#
+#10 september 2018:
+#Modified by        Raphaël Gervais Lavoie
+#                   raphael.gervaislavoie@uqtr.ca
+#Had to removed functions:  - cvcpk
+#                           - dpdd
+#                           - dpddk
+#                           - dpdt
+#                           - dpdtk
+#                           - dddp
+#                           - dddt
 #-------------------------------------------------------------------------------
 #
 #Recognitions
